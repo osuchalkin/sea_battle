@@ -1,8 +1,8 @@
 # Sea Battle
 
-Sea Battle (or Battleship) is known worldwide as a pencil and paper game which dates from World War I.
+**Sea Battle** (or Battleship) is known worldwide as a pencil and paper game which dates from World War I.
 
-
+Created on *Python* with *pygame*.
 
 Maps created by Molly "Cougarmint" Willits: https://www.deviantart.com/cougarmint
 
